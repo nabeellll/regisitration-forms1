@@ -1,0 +1,72 @@
+body{
+    background-image:url('rg bg.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+form{
+    padding-left: 36rem;
+    padding-top: 114px;
+}
+h1{
+    text-align: center;
+    padding-right:35rem;
+    font-size: 43px;
+    font-family: monospace;
+    color: white;
+}
+input.t1{
+    border-radius: 1rem;
+    height: 37px;
+    border: none;
+    text-align: center;
+}
+input.t6{
+    border-radius: 1rem;
+    height: 37px;
+    border: none;
+    text-align: center;
+
+}
+input.t2{
+    border-radius: 1rem;
+    height: 37px;
+    border: none;
+    width: 21.5rem;
+}
+input.t3{
+    border-radius: 1rem;
+    height: 37px;
+    border: none;
+    width: 21.5rem;
+}
+input.t4{
+    border-radius: 1rem;
+    height: 37px;
+    border: none;
+    width: 21.5rem;
+}
+input.t7{
+    border-radius: 2rem;
+    background-color: rgb(41, 187, 193);
+    border: none;
+    height: 32px;
+    font-size: 18px;
+    width: 22rem;
+    padding-left: 2rem;
+    text-align: center;
+}
+label{
+    padding-left: 0rem;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: white;
+}
+span{
+    color: rgb(43, 203, 208);
+}
+input.t5{
+    padding-left: 2px;
+}
+div.d1{
+    padding-left: 8%;
+}
